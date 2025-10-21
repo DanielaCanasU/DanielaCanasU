@@ -23,16 +23,16 @@
 - **AI & ML Web App** – Developed during Samsung Innovation Campus, integrating backend APIs with AI models.  
 -  My undergraduate thesis focuses on the **design and validation of an automated fall detection system** aimed at improving safety and emergency response. The project integrates **embedded systems, mobile applications, and cloud-based data management** to provide a reliable and scalable solution.  
 
-**Key Contributions:**  
-- **Embedded Development (ESP32):** Programmed the ESP32 microcontroller to capture and process accelerometer data, applying detection algorithms for abnormal motion patterns.  
-- **Mobile Application (Kotlin + Android Studio):** Designed and developed an Android app to receive data from the ESP32, display activity information, and trigger emergency alerts.  
-- **Cloud Database (Firebase):** Implemented Firebase for real-time data storage, synchronization, and push notifications, ensuring secure and scalable communication between devices.  
-- **Communication Layer:** Established wireless communication between the ESP32 and the mobile app for continuous monitoring.  
-- **Experimental Validation:** Conducted simulations and controlled tests to validate the accuracy of fall detection algorithms.  
-- **Emergency Alerts:** Integrated automated notifications to caregivers or emergency contacts when a fall was detected.  
+      **Key Contributions:**  
+      - **Embedded Development (ESP32):** Programmed the ESP32 microcontroller to capture and process accelerometer data, applying detection algorithms for abnormal motion patterns.  
+      - **Mobile Application (Kotlin + Android Studio):** Designed and developed an Android app to receive data from the ESP32, display activity information, and trigger emergency alerts.  
+      - **Cloud Database (Firebase):** Implemented Firebase for real-time data storage, synchronization, and push notifications, ensuring secure and scalable communication between devices.  
+      - **Communication Layer:** Established wireless communication between the ESP32 and the mobile app for continuous monitoring.  
+      - **Experimental Validation:** Conducted simulations and controlled tests to validate the accuracy of fall detection algorithms.  
+      - **Emergency Alerts:** Integrated automated notifications to caregivers or emergency contacts when a fall was detected.  
 
-**Impact:**  
-This project demonstrates my ability to combine **electronics, embedded programming, mobile development, and cloud services** into a cohesive system with real-world applications. It highlights my skills in **IoT, control systems, and user-centered software design**, while addressing a socially relevant problem.  
+       **Impact:**  
+       This project demonstrates my ability to combine **electronics, embedded programming, mobile development, and cloud services** into a cohesive system with real-world applications. It highlights my          skills in **IoT, control systems, and user-centered software design**, while addressing a socially relevant problem.  
   
 -  **Automation & IoT Systems** – Control and monitoring projects with sensors, actuators, and embedded systems.  
 
