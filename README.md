@@ -17,14 +17,6 @@ I enjoy designing and integrating **hardware–software systems**, from sensor a
 - Signal Processing & Sensor Integration  
 - Wireless Communication (LoRa, WiFi, BLE)
 
-##  Tech Stack  
-
-- **Languages & Frameworks:** TypeScript, Node.js, NestJS, Python, C++, Kotlin  
-- **Databases & Tools:** PostgreSQL, TypeORM, Redis, Bull Queue  
-- **DevOps & Infrastructure:** Docker, Docker Compose, Linux, CI/CD  
-- **Security & APIs:** JWT, reCAPTCHA, REST APIs, Swagger/OpenAPI  
-- **Other Skills:** Mobile App Development (Android Studio), Data Analysis (Python, Matlab), AI & Machine Learning  
-
 ---
 
 ### Electronics & Embedded Systems  
