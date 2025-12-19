@@ -50,28 +50,28 @@ I enjoy designing and integrating **hardware–software systems**, from sensor a
 - Undergraduate Thesis – Fall Detection & Emergency Monitoring System  
 **Electronics Engineering – Control specialization**
 
-Design and implementation of a **portable embedded system** for fall detection and emergency response, aimed at improving safety during physical activities such as running or hiking.
-
-#### 🔑 Key Contributions  
-- **Embedded System Design (ESP32):**  
-  Acquisition and processing of accelerometer data, implementation of fall detection algorithms, and system state management.  
-
-- **Wireless Communication:**  
-  Integration of long-range and short-range communication technologies for reliable data transmission.
-
-- **Mobile Application (Kotlin + Android Studio):** Designed and developed an Android app to receive data from the ESP32, display activity information, and trigger emergency alerts.
-
-- **Human–Machine Interface:**  
-  Development of a user-friendly interface using an OLED display.
-
-- **IoT & Cloud Integration:**  
-  Real-time data storage, monitoring, and alert management using cloud services. Implemented Firebase for real-time data storage, synchronization, and push notifications, ensuring secure and scalable communication between devices.
-
-- **Experimental Validation:**  
-  Testing and evaluation of detection accuracy under controlled conditions.  
-
-#### 🎯 Impact  
-This project demonstrates my ability to integrate **electronics, control systems, embedded programming, and IoT platforms** into a complete and functional engineering solution, addressing a real-world safety problem.
+     Design and implementation of a **portable embedded system** for fall detection and emergency response, aimed at improving safety during physical activities such as running or hiking.
+     
+     #### 🔑 Key Contributions  
+     - **Embedded System Design (ESP32):**  
+       Acquisition and processing of accelerometer data, implementation of fall detection algorithms, and system state management.  
+     
+     - **Wireless Communication:**  
+       Integration of long-range and short-range communication technologies for reliable data transmission.
+     
+     - **Mobile Application (Kotlin + Android Studio):** Designed and developed an Android app to receive data from the ESP32, display activity information, and trigger emergency alerts.
+     
+     - **Human–Machine Interface:**  
+       Development of a user-friendly interface using an OLED display.
+     
+     - **IoT & Cloud Integration:**  
+       Real-time data storage, monitoring, and alert management using cloud services. Implemented Firebase for real-time data storage, synchronization, and push notifications, ensuring secure and scalable communication between devices.
+     
+     - **Experimental Validation:**  
+       Testing and evaluation of detection accuracy under controlled conditions.  
+     
+     #### 🎯 Impact  
+     This project demonstrates my ability to integrate **electronics, control systems, embedded programming, and IoT platforms** into a complete and functional engineering solution, addressing a real-world safety problem.
 
 -  **Automation & IoT Systems** – Control and monitoring projects with sensors, actuators, and embedded systems.  
 
