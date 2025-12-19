@@ -26,12 +26,15 @@ I enjoy designing and integrating **hardware–software systems**, from sensor a
 - **Communication:** LoRa, UART, I2C, SPI  
 - **Simulation & Design:** Proteus, PSpice, MATLAB, Fusion 360
 
+---
+
 ### Control & Automation  
 - Control system modeling and analysis  
 - PLC fundamentals  
 - Signal conditioning and instrumentation  
 - Data acquisition and monitoring systems
 
+---
 ### Software & IoT Support  
 - **Backend & APIs:** Node.js, NestJS, REST APIs  
 - **Databases:** PostgreSQL, Firebase  
@@ -39,7 +42,7 @@ I enjoy designing and integrating **hardware–software systems**, from sensor a
 - **DevOps:** Docker, Linux  
 - **Data Analysis:** Python, MATLAB  
 
-
+---
 ##  Featured Projects  
 
 - **AI & ML Web App** – Developed during Samsung Innovation Campus, integrating backend APIs with AI models.
