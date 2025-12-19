@@ -1,12 +1,21 @@
 # 👋 Hi, I’m Daniela Cañas  
 
- Electronics Engineering student (Control specialization) at UNEXPO, Venezuela.  
- Passionate about **Backend Development, DevOps, Artificial Intelligence, Robotics, and Electronics**.  
- Currently working on projects with **NestJS, Node.js, TypeScript, PostgreSQL, and Docker**
- Experienced in **robotics competitions, automation systems, and embedded programming**.  
- Interested in **Fintech, Web3, and secure cloud-based applications**.  
+ **Electronics Engineering student (Control specialization)** at UNEXPO, Venezuela.  
+ Focused on **Electronics, Automation, Control Systems, Robotics, and Embedded Systems**.  
+ Strong interest in **IoT, industrial monitoring, wireless communication, and intelligent systems**.
+
+I enjoy designing and integrating **hardware–software systems**, from sensor acquisition and control algorithms to data visualization and remote monitoring platforms.
 
 ---
+
+## Areas of Interest  
+
+- Control Systems & Automation  
+- Embedded Systems & Microcontrollers  
+- Robotics & Intelligent Systems  
+- IoT & Industrial Monitoring  
+- Signal Processing & Sensor Integration  
+- Wireless Communication (LoRa, WiFi, BLE)
 
 ##  Tech Stack  
 
@@ -18,22 +27,57 @@
 
 ---
 
+### Electronics & Embedded Systems  
+- **Microcontrollers:** ESP32, Arduino, PIC  
+- **Programming:** C/C++, Python  
+- **Sensors & Actuators:** Accelerometers, GPS modules, temperature sensors, relays  
+- **Communication:** LoRa, UART, I2C, SPI  
+- **Simulation & Design:** Proteus, PSpice, MATLAB, Fusion 360
+
+### Control & Automation  
+- Control system modeling and analysis  
+- PLC fundamentals  
+- Signal conditioning and instrumentation  
+- Data acquisition and monitoring systems
+
+### Software & IoT Support  
+- **Backend & APIs:** Node.js, NestJS, REST APIs  
+- **Databases:** PostgreSQL, Firebase  
+- **Mobile Development:** Android (Kotlin, Android Studio)  
+- **DevOps:** Docker, Linux  
+- **Data Analysis:** Python, MATLAB  
+
+
 ##  Featured Projects  
 
-- **AI & ML Web App** – Developed during Samsung Innovation Campus, integrating backend APIs with AI models.  
--  My undergraduate thesis focuses on the **design and validation of an automated fall detection system** aimed at improving safety and emergency response. The project integrates **embedded systems, mobile applications, and cloud-based data management** to provide a reliable and scalable solution.  
+- **AI & ML Web App** – Developed during Samsung Innovation Campus, integrating backend APIs with AI models.
 
-      **Key Contributions:**  
-      - **Embedded Development (ESP32):** Programmed the ESP32 microcontroller to capture and process accelerometer data, applying detection algorithms for abnormal motion patterns.  
-      - **Mobile Application (Kotlin + Android Studio):** Designed and developed an Android app to receive data from the ESP32, display activity information, and trigger emergency alerts.  
-      - **Cloud Database (Firebase):** Implemented Firebase for real-time data storage, synchronization, and push notifications, ensuring secure and scalable communication between devices.  
-      - **Communication Layer:** Established wireless communication between the ESP32 and the mobile app for continuous monitoring.  
-      - **Experimental Validation:** Conducted simulations and controlled tests to validate the accuracy of fall detection algorithms.  
-      - **Emergency Alerts:** Integrated automated notifications to caregivers or emergency contacts when a fall was detected.
- 
-        **Impact:**
-       This project demonstrates my ability to combine **electronics, embedded programming, mobile development, and cloud services** into a cohesive system with real-world applications. It highlights my          skills in **IoT, control systems, and user-centered software design**, while addressing a socially relevant problem.    
-  
+- Undergraduate Thesis – Fall Detection & Emergency Monitoring System  
+**Electronics Engineering – Control specialization**
+
+Design and implementation of a **portable embedded system** for fall detection and emergency response, aimed at improving safety during physical activities such as running or hiking.
+
+#### 🔑 Key Contributions  
+- **Embedded System Design (ESP32):**  
+  Acquisition and processing of accelerometer data, implementation of fall detection algorithms, and system state management.  
+
+- **Wireless Communication:**  
+  Integration of long-range and short-range communication technologies for reliable data transmission.
+
+- **Mobile Application (Kotlin + Android Studio):** Designed and developed an Android app to receive data from the ESP32, display activity information, and trigger emergency alerts.
+
+- **Human–Machine Interface:**  
+  Development of a user-friendly interface using an OLED display.
+
+- **IoT & Cloud Integration:**  
+  Real-time data storage, monitoring, and alert management using cloud services. Implemented Firebase for real-time data storage, synchronization, and push notifications, ensuring secure and scalable communication between devices.
+
+- **Experimental Validation:**  
+  Testing and evaluation of detection accuracy under controlled conditions.  
+
+#### 🎯 Impact  
+This project demonstrates my ability to integrate **electronics, control systems, embedded programming, and IoT platforms** into a complete and functional engineering solution, addressing a real-world safety problem.
+
 -  **Automation & IoT Systems** – Control and monitoring projects with sensors, actuators, and embedded systems.  
 
 ---
